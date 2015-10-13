@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		181F22BE1BCABE6B00BD77A8 /* 50x50.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 181F22BD1BCABE6B00BD77A8 /* 50x50.jpg */; };
 		18D640661BCABC4F000246F7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18D640651BCABC4F000246F7 /* AppDelegate.swift */; };
 		18D640681BCABC4F000246F7 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18D640671BCABC4F000246F7 /* ViewController.swift */; };
 		18D6406B1BCABC4F000246F7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18D640691BCABC4F000246F7 /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		181F22BD1BCABE6B00BD77A8 /* 50x50.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 50x50.jpg; sourceTree = "<group>"; };
 		18D640621BCABC4F000246F7 /* FormActionDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FormActionDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		18D640651BCABC4F000246F7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		18D640671BCABC4F000246F7 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 			children = (
 				18D640651BCABC4F000246F7 /* AppDelegate.swift */,
 				18D640671BCABC4F000246F7 /* ViewController.swift */,
+				181F22BD1BCABE6B00BD77A8 /* 50x50.jpg */,
 				18D640691BCABC4F000246F7 /* Main.storyboard */,
 				18D6406C1BCABC4F000246F7 /* Assets.xcassets */,
 				18D6406E1BCABC4F000246F7 /* LaunchScreen.storyboard */,
@@ -123,6 +126,7 @@
 			files = (
 				18D640701BCABC4F000246F7 /* LaunchScreen.storyboard in Resources */,
 				18D6406D1BCABC4F000246F7 /* Assets.xcassets in Resources */,
+				181F22BE1BCABE6B00BD77A8 /* 50x50.jpg in Resources */,
 				18D6406B1BCABC4F000246F7 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -283,6 +287,7 @@
 				18D640761BCABC4F000246F7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
